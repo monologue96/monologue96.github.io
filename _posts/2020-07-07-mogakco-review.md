@@ -3,7 +3,7 @@ layout: post
 title: "[Dev] 백준 알고리즘 1193 - 분수찾기"  
 subtitle: "2020 모각코 07-07 개인별 결과"  
 categories: dev  
-tags: Algorithm Baekjun Java  
+tags: 2020-Summer-Mogakco Algorithm Baekjun Java  
 comments: true  
 <!--header-img: img/review/review-book-automate-tasks-1.png-->
 ---  
