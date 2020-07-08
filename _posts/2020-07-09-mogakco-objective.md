@@ -3,7 +3,7 @@ layout: post
 title: "[Dev] 2020 모각코 2020-07-09 개인별 목표"  
 subtitle: ""  
 categories: dev  
-tags: Web HTML5  
+tags: 2020-Summer-Mogakco Web HTML5  
 comments: true  
 <!--header-img: img/review/review-book-automate-tasks-1.png-->
 ---  
