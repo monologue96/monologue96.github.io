@@ -3,7 +3,7 @@ layout: post
 title: "[Dev] 2020 모각코 2020-07-07 개인별 목표"  
 subtitle: ""  
 categories: dev  
-tags: Algorithm Baekjun Java  
+tags: 2020-Summer-Mogakco Algorithm Baekjun Java  
 comments: true  
 <!--header-img: img/review/review-book-automate-tasks-1.png-->
 ---  
