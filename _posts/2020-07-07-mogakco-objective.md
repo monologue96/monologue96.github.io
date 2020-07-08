@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "[2020 모각코] 2020-07-07 개인별 목표"  
+title: "[Dev] 2020 모각코 2020-07-07 개인별 목표"  
 subtitle: ""  
 categories: dev  
 tags: Algorithm Baekjun Java  
