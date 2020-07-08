@@ -1,7 +1,7 @@
 ---  
 layout: post  
-title: "[알고리즘] 백준 알고리즘 1193 - 분수찾기"  
-subtitle: ""  
+title: "[Dev] 백준 알고리즘 1193 - 분수찾기"  
+subtitle: "2020 모각코 07-07 개인별 결과"  
 categories: dev  
 tags: Algorithm Baekjun Java  
 comments: true  
