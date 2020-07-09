@@ -80,7 +80,8 @@ comments: true
 개인이 웹 서버를 운영할 수도 있지만 일반적으로 그것이 쉽지 않기 때문에 '웹 호스팅 서비스'를 이용하여 웹호스트의 서버 일부를 사용할 수 있다.
 
 오늘 작성한 first.html 파일을 Github에 업로드하였는데, 내가 작성한 웹 문서를 Github의 서버에 업로드하였으므로 Github 역시 웹 호스팅 서비스를 제공한다고 볼 수 있다. 작성한 웹문서를 다른 유저가 확인하고 싶다면, 아래의 도메인 주소를 통해 first.html 파일이 업로드되어 있는 Github 서버에 접근하여 first.html 파일을 서버로부터 다운로드받아 웹브라우저를 통해 확인할 수 있다.  
-https://monologue96.github.io/2020-Mogakco/HTML5-CSS3/01/first.html
+[https://monologue96.github.io/2020-Mogakco/HTML5-CSS3/01/first.html](https://monologue96.github.io/2020-Mogakco/HTML5-CSS3/01/first.html)
+
 <br>
 
 ### ● 회고  
