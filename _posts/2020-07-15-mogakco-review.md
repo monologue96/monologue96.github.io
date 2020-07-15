@@ -142,9 +142,10 @@ comments: true
       <li>내용
       <li>내용
     </ol>
-  <li>항목2
+  </li>
+  <li>항목2</li>
 </ol>
-<br>
+<br>  
 
 >>**&lt;table&gt;, &lt;tr&gt;, &lt;td&gt;, &lt;th&gt;태그 - 기본적인 표 만들기**
 
