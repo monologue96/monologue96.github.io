@@ -139,13 +139,13 @@ comments: true
 <ol>
   <li>항목1
     <ol type="a"><!--</li>태그를 생략할 수 있고, 항목 안에 목록을 넣을 수도 있음-->
-      <li>내용
+      <li>내용</li>
       <li>내용</li>
     </ol>
   </li>
   <li>항목2</li>
 </ol>
-<br>  
+.
 
 >>**&lt;table&gt;, &lt;tr&gt;, &lt;td&gt;, &lt;th&gt;태그 - 기본적인 표 만들기**
 
