@@ -67,9 +67,9 @@ target 속성에서 _blank 값을 지정하면 링크 내용이 새 창 또는 �
 .
 
 ```html
-<iframe src="http://github.com/monologue96" width="600" height="400"></iframe>
+<iframe src="https://www.google.com/" width="600" height="400"></iframe>
 ```
-<iframe src="http://github.com/monologue96" width="600" height="400"></iframe>
+<iframe src="httpㄴ://www.google.com/" width="600" height="400"></iframe>
 <br>
 .
 
