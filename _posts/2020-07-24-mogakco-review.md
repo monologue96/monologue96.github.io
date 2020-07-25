@@ -10,6 +10,7 @@ comments: true
 **오늘 활동목표 : 인프런 C++ 강좌 수강(49강~53강)**  
 **&gt;&gt; 소스코드**
 >입출력
+
 ```c++
 #include <iostream>
 #include <string>
