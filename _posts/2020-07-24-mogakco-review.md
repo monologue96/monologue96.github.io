@@ -8,10 +8,8 @@ comments: true
 <!--header-img: img/review/review-book-automate-tasks-1.png-->
 ---
 **오늘 활동목표 : 인프런 C++ 강좌 수강(49강~53강)**  
-
 **&gt;&gt; 소스코드**
 >입출력
-
 ```c++
 #include <iostream>
 #include <string>
