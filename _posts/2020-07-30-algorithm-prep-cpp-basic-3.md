@@ -14,11 +14,11 @@ comments: true
 - 모든 함수에 대한 매개변수의 상수화, 멤버 메서드에 대한 메서드 상수화, 멤버 메서드의 선언과 정의 분리, 연산자 오버로딩에 대해 학습하였다.
 <br>
 
-**PC 환경에 최적화되어 있는 포스트입니다.
+**PC 환경에 최적화되어 있는 포스트입니다.<br>
 모바일 환경에서 소스코드가 잘려 보일 경우 '소스코드(github)' 링크를 확인해 주세요.**
 
 **&gt;&gt; 소스코드**
->**상수형 매개변수와 상수형 메서드**
+>**상수형 매개변수와 상수형 메서드**<br>
 [소스코드(github)](https://github.com/monologue96/cpp_beginner_practice/blob/master/const_parameter_const_method/ex1.cpp "소스코드(깃허브)")
 
 ```c++
@@ -79,7 +79,7 @@ int main() {
 ```
 <br>
 
->**멤버 메서드 활용하기**
+>**멤버 메서드 활용하기**<br>
 [소스코드(github)](https://github.com/monologue96/cpp_beginner_practice/blob/master/member_method_and_operator_overloading/ex1.cpp "소스코드(깃허브)")
 
 ```c++
@@ -143,7 +143,7 @@ float Vector2::getY() const { return y; };
 ```
 <br>
 
->**연산자 오버로딩**  
+>**연산자 오버로딩**<br>
 [소스코드(github)](https://github.com/monologue96/cpp_beginner_practice/blob/master/member_method_and_operator_overloading/ex2.cpp "소스코드(깃허브)")
 ```c++
 /*
