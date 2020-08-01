@@ -16,7 +16,7 @@ comments: true
 ---
 
 >**Hello World**<br>
-[문제 2557](https://www.acmicpc.net/problem/2557 "문제")<br>
+[백준알고리즘 문제 2557](https://www.acmicpc.net/problem/2557 "문제")<br>
 [소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja2557.cpp "소스코드(깃허브)")  
 
 ```c++
@@ -33,7 +33,7 @@ int main(){
 <br>
 
 >**A+B**<br>
-[문제 1000](https://www.acmicpc.net/problem/1000 "문제")<br>
+[백준알고리즘 문제 1000](https://www.acmicpc.net/problem/1000 "문제")<br>
 [소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja1000.cpp "소스코드(깃허브)")  
 
 ```c++
@@ -55,7 +55,7 @@ int main() {
 <br>
 
 >**A+B - 3**<br>
-[문제 10950](https://www.acmicpc.net/problem/10950 "문제")<br>
+[백준알고리즘 문제 10950](https://www.acmicpc.net/problem/10950 "문제")<br>
 [소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja10950.cpp "소스코드(깃허브)")  
 
 ```c++
@@ -78,7 +78,7 @@ int main() {
 <br>
 
 >**A+B - 4**<br>
-[문제 10951](https://www.acmicpc.net/problem/10951 "문제")<br>
+[백준알고리즘 문제 10951](https://www.acmicpc.net/problem/10951 "문제")<br>
 [소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja10951.cpp "소스코드(깃허브)")  
 
 ```c++
@@ -99,7 +99,7 @@ int main() {
 <br>
 
 >**A+B - 5**<br>
-[문제 10952](https://www.acmicpc.net/problem/10952 "문제")<br>
+[백준알고리즘 문제 10952](https://www.acmicpc.net/problem/10952 "문제")<br>
 [소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja10952.cpp "소스코드(깃허브)")  
 
 ```c++
@@ -120,7 +120,7 @@ int main() {
 <br>
 
 >**A+B - 6**<br>
-[문제 10953](https://www.acmicpc.net/problem/10953 "문제")<br>
+[백준알고리즘 문제 10953](https://www.acmicpc.net/problem/10953 "문제")<br>
 [소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja10953.cpp "소스코드(깃허브)")  
 
 ```c++
@@ -145,7 +145,7 @@ int main() {
 <br>
 
 >**A+B - 7**<br>
-[문제 11021](https://www.acmicpc.net/problem/11021 "문제")<br>
+[백준알고리즘 문제 11021](https://www.acmicpc.net/problem/11021 "문제")<br>
 [소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja11021.cpp "소스코드(깃허브)")  
 
 ```c++
@@ -169,7 +169,7 @@ int main() {
 <br>
 
 >**A+B - 8**<br>
-[문제 11022](https://www.acmicpc.net/problem/11022 "문제")<br>
+[백준알고리즘 문제 11022](https://www.acmicpc.net/problem/11022 "문제")<br>
 [소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja11022.cpp "소스코드(깃허브)")  
 
 ```c++
