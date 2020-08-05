@@ -1,7 +1,7 @@
 ---  
 layout: post  
-title: "[Dev] 알고리즘 기초 1 - 자료구조 1 (2) - 스택"  
-subtitle: "[Dev] 알고리즘 기초 1 - 자료구조 1 (2) - 스택"  
+title: "[Dev] 알고리즘 기초 1 - 자료구조 1 (3) - 연습문제"  
+subtitle: "[Dev] 알고리즘 기초 1 - 자료구조 1 (3) - 연습문제"  
 categories: dev  
 tags: Algorithm C++ Stack Baekjoon 백준 백준알고리즘  
 comments: true  
