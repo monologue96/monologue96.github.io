@@ -11,13 +11,15 @@ comments: true
 
 <br>
 
-**PC 환경에 최적화되어 있는 포스트입니다.<br>모바일 환경에서 소스코드가 잘려 보일 경우 '소스코드(github)' 링크를 확인해 주세요.**
+**PC 환경에 최적화되어 있는 포스트입니다.<br>모바일 환경에서 소스코드가 잘려 보일 경우 '소스코드(github)' 링크를 확인해 주세요.<br>백준 온라인 저지 monologue96 페이지에서도 확인하실 수 있습니다.**<br>
+
+[&gt;&gt; 백준 온라인 저지 monologue96 페이지](https://www.acmicpc.net/user/monologue96 "백준 온라인 저지 monologue96 페이지"){: target="_blank"}
 
 ---
 
 >**나머지**<br>
-[백준알고리즘 문제 10430](https://www.acmicpc.net/problem/10430 "문제")<br>
-[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja10430.cpp "소스코드(깃허브)")  
+[백준알고리즘 문제 10430](https://www.acmicpc.net/problem/10430 "문제"){: target="_blank"}<br>
+[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja10430.cpp "소스코드(깃허브)"){: target="_blank"}  
 
 ```c++
 #include <iostream>
@@ -43,8 +45,8 @@ int main() {
 <br>
 
 >**최대공약수와 최소공배수**<br>
-[백준알고리즘 문제 2609](https://www.acmicpc.net/problem/2609 "문제")<br>
-[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja2609.cpp "소스코드(깃허브)")  
+[백준알고리즘 문제 2609](https://www.acmicpc.net/problem/2609 "문제"){: target="_blank"}<br>
+[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja2609.cpp "소스코드(깃허브)"){: target="_blank"}  
 
 ```c++
 #include <iostream>
@@ -76,8 +78,8 @@ int main() {
 <br>
 
 >**최소공배수**<br>
-[백준알고리즘 문제 1934](https://www.acmicpc.net/problem/1934 "문제")<br>
-[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja1934.cpp "소스코드(깃허브)")  
+[백준알고리즘 문제 1934](https://www.acmicpc.net/problem/1934 "문제"){: target="_blank"}<br>
+[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja1934.cpp "소스코드(깃허브)"){: target="_blank"}  
 
 ```c++
 #include <iostream>
@@ -115,8 +117,8 @@ int main() {
 <br>
 
 >**소수 찾기**<br>
-[백준알고리즘 문제 1978](https://www.acmicpc.net/problem/1978 "문제")<br>
-[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja1978.cpp "소스코드(깃허브)")  
+[백준알고리즘 문제 1978](https://www.acmicpc.net/problem/1978 "문제"){: target="_blank"}<br>
+[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja1978.cpp "소스코드(깃허브)"){: target="_blank"}  
 
 ```c++
 #include <iostream>
@@ -164,8 +166,8 @@ int main() {
 <br>
 
 >**소수 구하기 (에라토스테네스의 체)**<br>
-[백준알고리즘 문제 1929](https://www.acmicpc.net/problem/1929 "문제")<br>
-[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja1929.cpp "소스코드(깃허브)")  
+[백준알고리즘 문제 1929](https://www.acmicpc.net/problem/1929 "문제"){: target="_blank"}<br>
+[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja1929.cpp "소스코드(깃허브)"){: target="_blank"}  
 
 ```c++
 #include <iostream>
@@ -213,8 +215,8 @@ int main() {
 <br>
 
 >**골드바흐의 추측**<br>
-[백준알고리즘 문제 6588](https://www.acmicpc.net/problem/6588 "문제")<br>
-[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja6588.cpp "소스코드(깃허브)")  
+[백준알고리즘 문제 6588](https://www.acmicpc.net/problem/6588 "문제"){: target="_blank"}<br>
+[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja6588.cpp "소스코드(깃허브)"){: target="_blank"}  
 
 ```c++
 #include <iostream>
@@ -256,8 +258,8 @@ int main() {
 <br>
 
 >**팩토리얼**<br>
-[백준알고리즘 문제 10872](https://www.acmicpc.net/problem/10872 "문제")<br>
-[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja10872.cpp "소스코드(깃허브)")  
+[백준알고리즘 문제 10872](https://www.acmicpc.net/problem/10872 "문제"){: target="_blank"}<br>
+[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja10872.cpp "소스코드(깃허브)"){: target="_blank"}  
 
 ```c++
 #include <iostream>
@@ -285,8 +287,8 @@ int main() {
 <br>
 
 >**팩토리얼 0의 개수**<br>
-[백준알고리즘 문제 1676](https://www.acmicpc.net/problem/1676 "문제")<br>
-[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja1676.cpp "소스코드(깃허브)")  
+[백준알고리즘 문제 1676](https://www.acmicpc.net/problem/1676 "문제"){: target="_blank"}<br>
+[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja1676.cpp "소스코드(깃허브)"){: target="_blank"}  
 
 ```c++
 #include <iostream>
@@ -320,8 +322,8 @@ int main() {
 <br>
 
 >**조합 0의 개수**<br>
-[백준알고리즘 문제 2004](https://www.acmicpc.net/problem/2004 "문제")<br>
-[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja2004.cpp "소스코드(깃허브)")  
+[백준알고리즘 문제 2004](https://www.acmicpc.net/problem/2004 "문제"){: target="_blank"}<br>
+[소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja2004.cpp "소스코드(깃허브)"){: target="_blank"}  
 
 ```c++
 #include <iostream>
