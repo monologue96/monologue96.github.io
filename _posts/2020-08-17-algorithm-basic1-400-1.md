@@ -55,7 +55,7 @@ int main() {
 [백준알고리즘 문제 11726](https://www.acmicpc.net/problem/11726 "문제"){: target="_blank"}<br>
 [소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja11726.cpp "소스코드(깃허브)"){: target="_blank"}  
 
-<img src="../assets/img/dev/algorithm/노트4_1.jpg" />
+<img src="https://github.com/monologue96/monologue96.github.io/blob/master/assets/img/dev/algorithm/%EB%85%B8%ED%8A%B84_1.jpg" />
 
 ```c++
 #include <iostream>
@@ -137,7 +137,7 @@ int main() {
 [백준알고리즘 문제 9095](https://www.acmicpc.net/problem/9095 "문제"){: target="_blank"}<br>
 [소스코드(github)](https://github.com/monologue96/baekjoon_algorithm_practice/blob/master/Algorithm_basic_1_practice/Algorithm_basic_1_practice/bja9095.cpp "소스코드(깃허브)"){: target="_blank"}  
 
-<img src="../assets/img/dev/algorithm/노트4_2.jpg" />
+<img src="https://github.com/monologue96/monologue96.github.io/blob/master/assets/img/dev/algorithm/%EB%85%B8%ED%8A%B84_2.jpg" />
 
 ```c++
 #include <iostream>
